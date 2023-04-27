@@ -1,0 +1,180 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.container{
+	width:85% ;
+	margin-left:auto;
+	margin-right:auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-container{
+	display:flex;
+	flex-wrap:wrap;
+	margin-left:-15px;
+	margin-right:-15px;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-1{
+	width:8.33%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-2{
+	width:16.66%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-3{
+	width:25%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-4{
+	width:33.33%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-5{
+	width:41.66%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-6{
+	width:50%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-7{
+	width:58.33%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-8{
+	width:66.66%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-9{
+	width:75%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-10{
+	width:83.33%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-11{
+	width:91.66%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-items-12{
+	width:100%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+
+
+/* content-section */
+.profile_sec{
+	margin-top:30px;
+}
+.content_sec{
+	padding-top:20px;
+}
+.content_sec h1{
+	font-size:43px;
+	padding-bottom:20px;
+}
+.content_sec p{
+	font_size:15px;
+	color:gray;
+}
+.content_profile{
+	display:flex;
+	margin-top:30px;
+}
+.content_profile i{
+	color:orange;
+	font-size:40px;
+	
+}
+.content_profile h1{
+	padding-left:45px;
+	font-size:30px;
+}
+.content_profile p{
+	padding-left:50px;
+	padding-top:10px;
+	color:gray;
+}
+/* .content_profile span{
+	padding-left:10px;
+}  */
+.happy_client{
+	position:relative;
+}
+.happy_client i{
+	position:absolute;
+	top:10px;
+	
+}
+.happy_client p span{
+	color:black;
+	font-size:15px;
+}
+.project{
+	position:relative;
+}
+.project i{
+	position:absolute;
+	top:10px;
+	
+}
+.project  p span{
+	color:black;
+	font-size:15px;
+}
+.experience{
+	position:relative;
+}
+.experience i{
+	position:absolute;
+	top:10px;
+	
+}
+.experience p span{
+	color:black;
+	font-size:15px;
+}
+.awards{
+	position:relative;
+}
+.awards i{
+	position:absolute;
+	top:10px;
+	
+}
+.awards p span{
+	color:black;
+	font-size:15px;
+	/* display:inline-block;*/
+	padding-Left:-70px; 
+}
